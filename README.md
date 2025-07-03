@@ -1,7 +1,7 @@
 # Hover Images
 
 This is a simple HTML and CSS project that displays a set of images with hover effects. 
-When you hover over an image, an overlay appears showing the person's name and profession. 
+When you hover over an image, an overlay appears showing the place and country. 
 This project is useful for showcasing image transitions and UI interactions using only HTML and CSS.
 
 
